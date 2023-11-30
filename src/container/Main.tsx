@@ -14,7 +14,7 @@ const Main = () => {
         const fetchData = async () => {
             try {
                 const response = await fetch(
-                    "http://localhost:8000/aviability"
+                    "https://hotelbooking-data.onrender.com/aviability"
                 );
 
                 if (response.ok) {
@@ -34,7 +34,7 @@ const Main = () => {
         const fetchData = async () => {
             try {
                 const response = await fetch(
-                    "http://localhost:8000/properties"
+                    "https://hotelbooking-data.onrender.com/properties"
                 );
                 if (response.ok) {
                     const data = await response.json();
