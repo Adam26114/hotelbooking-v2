@@ -1,0 +1,110 @@
+[
+  {
+    "code": "BHS",
+    "customerID": "BAYHOTEL",
+    "logo": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1932&q=80",
+    "name": "Bay Hotel Singapore",
+    "address": {
+      "address": "50 Telok Blangah Road (Entrance via Temenggong Road)",
+      "city": "",
+      "state": "",
+      "postcode": "098828",
+      "countryCode": "SGP",
+      "latitude": 5.2301,
+      "longitude": 101.2234
+    },
+    "description": "Perfectly located at the gateway to Sentosa and opposite Singapore’s largest shopping mall, Vivocity, the 333-room Bay Hotel* is well-positioned as the largest executive boutique hotel in Singapore. Embraced by verdant, picturesque surrounds, the diamante Bay Hotel satiates urbane travellers with cosmopolitan chic and idyllic charm.",
+    "images": [
+      {
+        "src": "https://www.qikres.com/wbe/images/BAYHOTEL/Product/1662/Business%20King%20Room_thumbnail.jpg",
+        "description": "Business King Room"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1568495248636-6432b97bd949?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80",
+        "description": "Business King Bed"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1576675784201-0e142b423952?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1352&q=80",
+        "description": "Business King"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1572177215152-32f247303126?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2082&q=80",
+        "description": "Business King"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1444201983204-c43cbd584d93?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+        "description": "Business Suite"
+      },
+      {
+        "src": "https://images.unsplash.com/flagged/photo-1556438757-f9181aa300ca?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1353&q=80",
+        "description": "Shower Room"
+      }
+    ],
+    "features": [
+      "GYM",
+      "POOL",
+      "SPA",
+      "WIFIPUB"
+    ],
+    "rating": 4,
+    "phone": {
+      "countryCode": null,
+      "phoneNumber": "+65 6818 6666"
+    },
+    "email": "general@bayhotelsingapore.com"
+  },
+  {
+    "code": "BHCM",
+    "customerID": "BAYHOTEL",
+    "logo": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2080&q=80",
+    "name": "Bay Hotel Ho Chi Minh",
+    "address": {
+      "address": "7 Ngo Van Nam Street, District 1",
+      "city": "Ho Chi Minh City",
+      "state": "",
+      "postcode": "",
+      "countryCode": "VNM",
+      "latitude": 5.2301,
+      "longitude": 101.2234
+    },
+    "description": "<p>The 251-room Bay Hotel Ho Chi Minh opened in first quarter of 2016, after the successful inception of its previous sister property, the largest executive boutique 333-room Bay Hotel Singapore (sold in Q3 2019).</p><p>Tailored to impress business travellers with a boutique service philosophy and the urbanites’ comfort in mind, Bay Hotel Ho Chi Minh is primed to lend a distinguished appeal and render an unparalleled service in the heart of the city, District 1.</p><p>The 16-storey hotel features a bevy of pleasures for minds to unwind from a stylish restaurant, rooftop pool and bar facing the Saigon River.</p>",
+    "images": [
+      {
+        "src": "https://www.qikres.com/wbe/images/BAYHOTEL/Product/1662/Business%20King%20Room_thumbnail.jpg",
+        "description": "Business King Room"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1568495248636-6432b97bd949?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80",
+        "description": "Business King Bed"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1576675784201-0e142b423952?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1352&q=80",
+        "description": "Business King"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1572177215152-32f247303126?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2082&q=80",
+        "description": "Business King"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1444201983204-c43cbd584d93?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+        "description": "Business Suite"
+      },
+      {
+        "src": "https://images.unsplash.com/flagged/photo-1556438757-f9181aa300ca?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1353&q=80",
+        "description": "Shower Room"
+      }
+    ],
+    "features": [
+      "GYM",
+      "POOL",
+      "SPA",
+      "WIFIPUB"
+    ],
+    "rating": 4,
+    "phone": {
+      "countryCode": null,
+      "phoneNumber": "+84 28 3829 6666"
+    },
+    "email": "general@bayhotelhcm.com"
+  }
+]

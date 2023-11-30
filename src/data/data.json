@@ -1,0 +1,591 @@
+{
+    "aviability": [
+        {
+            "code": "DXK",
+            "name": "Business King",
+            "description": "We mean business when it comes to the Business Room. With panoramic views of the commercial activities be it in the busy city or the Saigon River, you will be truly inspired to get down to business with specially tailored shelves for your executive needs, from organising your reports, reference notes to files and there is room even for books and resources provided by the hotel for you to browse, at your leisure. With such thoughtful design features in the 27sqm executive-themed dream space, coupled with the unlimited WiFi and minibar on the house, as well as the signature BAYCOMFORT bedding experience, it is no wonder business travel is also ‘bleisure’ and ‘bizcation’ at Bay Hotel Ho Chi Minh.",
+            "images": [
+                {
+                    "src": "https://www.qikres.com/wbe/images/BAYHOTEL/Product/1662/Business%20King%20Room_thumbnail.jpg",
+                    "description": "Business King Room"
+                },
+                {
+                    "src": "https://images.unsplash.com/photo-1568495248636-6432b97bd949?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80",
+                    "description": "Business King Bed"
+                },
+                {
+                    "src": "https://images.unsplash.com/photo-1576675784201-0e142b423952?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1352&q=80",
+                    "description": "Business King"
+                },
+                {
+                    "src": "https://images.unsplash.com/photo-1572177215152-32f247303126?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2082&q=80",
+                    "description": "Business King"
+                },
+                {
+                    "src": "https://images.unsplash.com/photo-1444201983204-c43cbd584d93?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+                    "description": "Business Suite"
+                },
+                {
+                    "src": "https://images.unsplash.com/flagged/photo-1556438757-f9181aa300ca?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1353&q=80",
+                    "description": "Shower Room"
+                }
+            ],
+            "amenities": ["AIRCOND", "DESK", "WIFI"],
+            "occupancy": {
+                "min": 1,
+                "max": 2
+            },
+            "rates": [
+                {
+                    "code": "BAR",
+                    "name": "Best Rate Available",
+                    "description": "<ul><li>Free WIFI access</li></ul>",
+                    "price": 780,
+                    "currency": "MYR",
+                    "daily_rates": {
+                        "2020-04-25": {
+                            "amount": 79,
+                            "discount": 0,
+                            "total": 79
+                        }
+                    },
+                    "promo": false,
+                    "nett": true,
+                    "charges": {
+                        "amount": 49.63,
+                        "components": [
+                            {
+                                "description": "Service Charge",
+                                "percentage": 10,
+                                "amount": 29.9,
+                                "type": "charge"
+                            },
+                            {
+                                "description": "GST",
+                                "percentage": 6,
+                                "amount": 19.73,
+                                "type": "tax"
+                            }
+                        ]
+                    },
+                    "has_memberrate": false,
+                    "is_flashdeal": false,
+                    "is_negotiated": false,
+                    "policy": "<p>An cancellation received within 3 days prior to arrival date will incur the first night charge.</p><p>Failure to arrive at your hotel will be treated as a No-Show and no refund will be given.</p>",
+                    "availability": 3
+                },
+                {
+                    "code": "BLB",
+                    "name": "B-leisure @ Bay",
+                    "description": "<ul><li>Free WIFI access</li> <li>Unlimited Local Calls</li> <li>Complimentary well-stocked Minibar (replenished once daily)</li> <li>Complimentary Buffet Breakfast for Single and Double occupancy</li> <li>20% F&amp;B Discount on Ala Carte Menu</li> <li>Complimentary Room Upgrade ( if available )</li> <li>Complimentary Airport One-way Drop off ( Minimum 3 nights )</li></ul>",
+                    "price": 299,
+                    "original_price": 399,
+                    "currency": "MYR",
+                    "daily_rates": {
+                        "2020-04-25": {
+                            "amount": 299,
+                            "discount": 0,
+                            "total": 299
+                        }
+                    },
+                    "promo": true,
+                    "nett": false,
+                    "charges": {
+                        "amount": 49.63,
+                        "components": [
+                            {
+                                "description": "Service Charge",
+                                "percentage": 10,
+                                "amount": 29.9,
+                                "type": "charge"
+                            },
+                            {
+                                "description": "GST",
+                                "percentage": 6,
+                                "amount": 19.73,
+                                "type": "tax"
+                            }
+                        ]
+                    },
+                    "has_memberrate": false,
+                    "is_flashdeal": false,
+                    "is_negotiated": false,
+                    "policy": "<p><strong>Policy Best Available Rate With Breakfast:</strong><br/>Check-in after 2:00 PM<br/>Check-out at 12:00 PM</p><p>Must be 18 or older to book a room</p><p><strong>Guarantee Policy:</strong><br/>Reservation must be guaranteed by a major credit card at the time of booking.</p><p><strong>Cancellation Policy:</strong><br/>Bookings made are refundable or modified.</p><p><strong>Maximum Room Occupancy:</strong><br/>2 persons per room only</p><p><strong>Amenities:</strong><br/>Complimentary Wireless Internet</p><p>Basement parking is available at a flat rate of MYR 25.00 + / day</p><p>Completely non smoking room. MYR 1000 penalization if violation</p><p>Rates and policies are subject to change.</p>",
+                    "availability": 2
+                },
+                {
+                    "code": "HRR",
+                    "name": "Hotel Rack Rate",
+                    "description": "<ul><li>Free WIFI access</li><li>Buffet Breakfast for up to 2 persons daily</li><li>Unlimited Local Calls</li></ul>",
+                    "price": 399,
+                    "currency": "MYR",
+                    "daily_rates": {
+                        "2020-04-25": {
+                            "amount": 399,
+                            "discount": 0,
+                            "total": 399
+                        }
+                    },
+                    "promo": false,
+                    "nett": true,
+                    "charges": {
+                        "amount": 49.63,
+                        "components": [
+                            {
+                                "description": "Service Charge",
+                                "percentage": 10,
+                                "amount": 29.9,
+                                "type": "charge"
+                            },
+                            {
+                                "description": "GST",
+                                "percentage": 6,
+                                "amount": 19.73,
+                                "type": "tax"
+                            }
+                        ]
+                    },
+                    "has_memberrate": true,
+                    "is_flashdeal": false,
+                    "is_negotiated": false,
+                    "policy": "<p>Any cancellation received within 3 days prior to arrival date will incur the first night charge.</p><p>Failure to arrive at your hotel will be treated as a No-Show and no refund will be given.</p>",
+                    "availability": 3
+                }
+            ]
+        },
+        {
+            "code": "JS",
+            "name": "Designer Suite",
+            "description": "Round is the word when it comes to the concept of the Designer Suite. Centrepieced with a circular bed and a spherical sofa, the 35 sqm suite is designed to impart a warm and comforting ambience, giving a sense of sensuality and unity. With the archetypal sun symbol as the circle emanating golden rays, celestial chic is in the air and it brings out the power and energy in you naturally. Embrace the wholeness all at once! Exclusive Suite Benefits: Daily Buffet Breakfast up to 2 persons Full Suite mini-bar with wine Branded room toiletries Priority Check in & Check out Complimentary 04 pieces of laundry per day Complimentary 01 way airport transfer (arrival or departure) 20% off at Chic Restaurant (non-alcohol) Complimentary welcome drink Welcome Fruits High Speed Broadband internet line Unlimited local calls Late Check out/Early Check in (Upon request, subject to availability) Usage of Gym & Swimming pool facilities.",
+            "images": [
+                {
+                    "src": "https://images.unsplash.com/photo-1444201983204-c43cbd584d93?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+                    "description": "Business Suite"
+                },
+                {
+                    "src": "https://images.unsplash.com/photo-1568495248636-6432b97bd949?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80",
+                    "description": "Business King Bed"
+                },
+                {
+                    "src": "https://images.unsplash.com/photo-1576675784201-0e142b423952?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1352&q=80",
+                    "description": "Business King"
+                },
+                {
+                    "src": "https://images.unsplash.com/photo-1572177215152-32f247303126?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2082&q=80",
+                    "description": "Business King"
+                }
+            ],
+            "amenities": ["AIRCOND", "DESK", "WIFI"],
+            "occupancy": {
+                "min": 1,
+                "max": 4
+            },
+            "rates": [
+                {
+                    "code": "BAR",
+                    "name": "Best Rate Available",
+                    "description": "<ul><li>Free WIFI access</li> <li>Unlimited Local Calls</li> <li>Complimentary well-stocked Minibar (replenished once daily)</li> <li>Complimentary Buffet Breakfast for Single and Double occupancy</li> <li>20% F&amp;B Discount on Ala Carte Menu</li> <li>Complimentary Room Upgrade ( if available )</li> <li>Complimentary Airport One-way Drop off ( Minimum 3 nights )</li></ul>",
+                    "price": 179,
+                    "original_price": 229,
+                    "currency": "MYR",
+                    "daily_rates": {
+                        "2020-04-25": {
+                            "amount": 179,
+                            "discount": 0,
+                            "total": 179
+                        }
+                    },
+                    "promo": false,
+                    "nett": true,
+                    "charges": {},
+                    "has_memberrate": false,
+                    "is_flashdeal": true,
+                    "is_negotiated": false,
+                    "flash_period": {
+                        "start": "0000",
+                        "end": "2300"
+                    },
+                    "availability": 1
+                },
+                {
+                    "code": "BLB",
+                    "name": "B-leisure @ Bay",
+                    "description": "<ul><li>Free WIFI access</li> <li>Unlimited Local Calls</li> <li>Complimentary well-stocked Minibar (replenished once daily)</li> <li>Complimentary Buffet Breakfast for Single and Double occupancy</li> <li>20% F&amp;B Discount on Ala Carte Menu</li> <li>Complimentary Room Upgrade ( if available )</li> <li>Complimentary Airport One-way Drop off ( Minimum 3 nights )</li></ul>",
+                    "price": 199,
+                    "original_price": 229,
+                    "currency": "MYR",
+                    "daily_rates": {
+                        "2020-04-25": {
+                            "amount": 199,
+                            "discount": 0,
+                            "total": 199
+                        }
+                    },
+                    "promo": true,
+                    "nett": false,
+                    "charges": {
+                        "amount": 33.03,
+                        "components": [
+                            {
+                                "description": "Service Charge",
+                                "percentage": 10,
+                                "amount": 19.9,
+                                "type": "charge"
+                            },
+                            {
+                                "description": "GST",
+                                "percentage": 6,
+                                "amount": 13.13,
+                                "type": "tax"
+                            }
+                        ]
+                    },
+                    "has_memberrate": false,
+                    "is_flashdeal": false,
+                    "is_negotiated": false,
+                    "availability": 2
+                },
+                {
+                    "code": "HRR",
+                    "name": "Hotel Rack Rate",
+                    "description": "<ul><li>Free WIFI access</li> <li>Unlimited Local Calls</li> <li>Complimentary well-stocked Minibar (replenished once daily)</li> <li>Complimentary Buffet Breakfast for Single and Double occupancy</li> <li>20% F&amp;B Discount on Ala Carte Menu</li> <li>Complimentary Room Upgrade ( if available )</li> <li>Complimentary Airport One-way Drop off ( Minimum 3 nights )</li></ul>",
+                    "price": 299,
+                    "currency": "MYR",
+                    "daily_rates": {
+                        "2020-04-25": {
+                            "amount": 299,
+                            "discount": 0,
+                            "total": 299
+                        }
+                    },
+                    "promo": false,
+                    "nett": true,
+                    "charges": {},
+                    "has_memberrate": true,
+                    "is_flashdeal": false,
+                    "is_negotiated": false,
+                    "availability": 4
+                }
+            ]
+        },
+        {
+            "code": "DXQ",
+            "name": "Deluxe Queen",
+            "description": "Depending on the room you are in, you may be at one with the bustling city or even the busy activities at the nearby Saigon River. With the ultra-cosy BAYCOMFORT bedding experience in a minimalist chic Deluxe Room, you would love to stay in-room all day long with the perfect accompaniments of complimentary well-stocked minibar and complimentary WiFi in your 25 sqm decently fitted dream space.",
+            "images": [
+                {
+                    "src": "https://source.unsplash.com/random/?hotel-room/3",
+                    "description": "Business Suite"
+                },
+                {
+                    "src": "https://images.unsplash.com/photo-1568495248636-6432b97bd949?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80",
+                    "description": "Business King Bed"
+                },
+                {
+                    "src": "https://images.unsplash.com/photo-1572177215152-32f247303126?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2082&q=80",
+                    "description": "Business King"
+                }
+            ],
+            "amenities": ["AIRCOND", "DESK", "WIFI"],
+            "occupancy": {
+                "min": 1,
+                "max": 2
+            },
+            "rates": [
+                {
+                    "code": "BAR",
+                    "name": "Best Rate Available",
+                    "description": "<ul><li>Free WIFI access</li> <li>Unlimited Local Calls</li> <li>Complimentary well-stocked Minibar (replenished once daily)</li> <li>Complimentary Buffet Breakfast for Single and Double occupancy</li> <li>20% F&amp;B Discount on Ala Carte Menu</li> <li>Complimentary Room Upgrade ( if available )</li> <li>Complimentary Airport One-way Drop off ( Minimum 3 nights )</li></ul>",
+                    "price": 299,
+                    "original_price": 399,
+                    "currency": "MYR",
+                    "daily_rates": {
+                        "2020-04-25": {
+                            "amount": 299,
+                            "discount": 0,
+                            "total": 299
+                        }
+                    },
+                    "promo": false,
+                    "nett": true,
+                    "charges": {},
+                    "has_memberrate": false,
+                    "is_flashdeal": true,
+                    "is_negotiated": false,
+                    "flash_period": {
+                        "start": "0000",
+                        "end": "2300"
+                    },
+                    "availability": 3
+                },
+                {
+                    "code": "BLB",
+                    "name": "B-leisure @ Bay",
+                    "description": "<ul><li>Free WIFI access</li> <li>Unlimited Local Calls</li> <li>Complimentary well-stocked Minibar (replenished once daily)</li> <li>Complimentary Buffet Breakfast for Single and Double occupancy</li> <li>20% F&amp;B Discount on Ala Carte Menu</li> <li>Complimentary Room Upgrade ( if available )</li> <li>Complimentary Airport One-way Drop off ( Minimum 3 nights )</li></ul>",
+                    "price": 499,
+                    "original_price": 699,
+                    "currency": "MYR",
+                    "daily_rates": {
+                        "2020-04-25": {
+                            "amount": 499,
+                            "discount": 0,
+                            "total": 499
+                        }
+                    },
+                    "promo": true,
+                    "nett": false,
+                    "charges": {
+                        "amount": 82.83,
+                        "components": [
+                            {
+                                "description": "Service Charge",
+                                "percentage": 10,
+                                "amount": 49.9,
+                                "type": "charge"
+                            },
+                            {
+                                "description": "GST",
+                                "percentage": 6,
+                                "amount": 32.93,
+                                "type": "tax"
+                            }
+                        ]
+                    },
+                    "has_memberrate": false,
+                    "is_flashdeal": false,
+                    "is_negotiated": false,
+                    "availability": 2
+                },
+                {
+                    "code": "HRR",
+                    "name": "Hotel Rack Rate",
+                    "description": "<ul><li>Free WIFI access</li> <li>Unlimited Local Calls</li> <li>Complimentary well-stocked Minibar (replenished once daily)</li> <li>Complimentary Buffet Breakfast for Single and Double occupancy</li> <li>20% F&amp;B Discount on Ala Carte Menu</li> <li>Complimentary Room Upgrade ( if available )</li> <li>Complimentary Airport One-way Drop off ( Minimum 3 nights )</li></ul>",
+                    "price": 699,
+                    "currency": "MYR",
+                    "daily_rates": {
+                        "2020-04-25": {
+                            "amount": 699,
+                            "discount": 0,
+                            "total": 699
+                        }
+                    },
+                    "promo": false,
+                    "nett": true,
+                    "charges": {},
+                    "has_memberrate": true,
+                    "is_flashdeal": false,
+                    "is_negotiated": false,
+                    "availability": 2
+                }
+            ]
+        },
+        {
+            "code": "DQS",
+            "name": "Superior Queen",
+            "description": "Featured with mahogany walls and clean lines, the 23 sqm Superior Room exudes understated comfort and zen-inspired calm. For an idyllic escape with the needed amenities well in place in your own comfort zone, from an executive work desk to complimentary minibar and WiFi, who still needs a view of the world? * Superior room features no window.",
+            "images": [
+                {
+                    "src": "https://images.unsplash.com/photo-1572177215152-32f247303126?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2082&q=80",
+                    "description": "Business King"
+                },
+                {
+                    "src": "https://images.unsplash.com/photo-1568495248636-6432b97bd949?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80",
+                    "description": "Business King Bed"
+                },
+                {
+                    "src": "https://images.unsplash.com/photo-1576675784201-0e142b423952?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1352&q=80",
+                    "description": "Business King"
+                }
+            ],
+            "amenities": ["AIRCOND", "DESK", "WIFI"],
+            "occupancy": {
+                "min": 1,
+                "max": 2
+            },
+            "rates": [
+                {
+                    "code": "BLB",
+                    "name": "B-leisure @ Bay",
+                    "description": "<ul><li>Free WIFI access</li> <li>Unlimited Local Calls</li> <li>Complimentary well-stocked Minibar (replenished once daily)</li> <li>Complimentary Buffet Breakfast for Single and Double occupancy</li> <li>20% F&amp;B Discount on Ala Carte Menu</li> <li>Complimentary Room Upgrade ( if available )</li> <li>Complimentary Airport One-way Drop off ( Minimum 3 nights )</li></ul>",
+                    "price": 399,
+                    "original_price": 499,
+                    "currency": "MYR",
+                    "daily_rates": {
+                        "2020-04-25": {
+                            "amount": 399,
+                            "discount": 0,
+                            "total": 399
+                        }
+                    },
+                    "promo": true,
+                    "nett": false,
+                    "charges": {
+                        "amount": 66.23,
+                        "components": [
+                            {
+                                "description": "Service Charge",
+                                "percentage": 10,
+                                "amount": 39.9,
+                                "type": "charge"
+                            },
+                            {
+                                "description": "GST",
+                                "percentage": 6,
+                                "amount": 26.33,
+                                "type": "tax"
+                            }
+                        ]
+                    },
+                    "has_memberrate": false,
+                    "is_flashdeal": false,
+                    "is_negotiated": false,
+                    "availability": 2
+                },
+                {
+                    "code": "HRR",
+                    "name": "Hotel Rack Rate",
+                    "description": "<ul><li>Free WIFI access</li> <li>Unlimited Local Calls</li> <li>Complimentary well-stocked Minibar (replenished once daily)</li> <li>Complimentary Buffet Breakfast for Single and Double occupancy</li> <li>20% F&amp;B Discount on Ala Carte Menu</li> <li>Complimentary Room Upgrade ( if available )</li> <li>Complimentary Airport One-way Drop off ( Minimum 3 nights )</li></ul>",
+                    "price": 799,
+                    "currency": "MYR",
+                    "daily_rates": {
+                        "2020-04-25": {
+                            "amount": 799,
+                            "discount": 0,
+                            "total": 799
+                        }
+                    },
+                    "promo": false,
+                    "nett": true,
+                    "charges": {},
+                    "has_memberrate": true,
+                    "is_flashdeal": false,
+                    "is_negotiated": false,
+                    "availability": 3
+                },
+                {
+                    "code": "CWB",
+                    "name": "Corp with Breakfast",
+                    "description": "<ul><li>Free WIFI access</li> <li>Unlimited Local Calls</li> <li>Complimentary well-stocked Minibar (replenished once daily)</li> <li>Complimentary Buffet Breakfast for Single and Double occupancy</li> <li>20% F&amp;B Discount on Ala Carte Menu</li> <li>Complimentary Room Upgrade ( if available )</li> <li>Complimentary Airport One-way Drop off ( Minimum 3 nights )</li></ul>",
+                    "price": 188,
+                    "currency": "MYR",
+                    "daily_rates": {
+                        "2020-04-25": {
+                            "amount": 188,
+                            "discount": 0,
+                            "total": 188
+                        }
+                    },
+                    "promo": false,
+                    "nett": true,
+                    "charges": {},
+                    "has_memberrate": false,
+                    "is_flashdeal": false,
+                    "is_negotiated": true,
+                    "availability": 1
+                }
+            ]
+        }
+    ],
+    "properties": [
+        {
+            "code": "BHS",
+            "customerID": "BAYHOTEL",
+            "logo": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1932&q=80",
+            "name": "Bay Hotel Singapore",
+            "address": {
+                "address": "50 Telok Blangah Road (Entrance via Temenggong Road)",
+                "city": "",
+                "state": "",
+                "postcode": "098828",
+                "countryCode": "SGP",
+                "latitude": 5.2301,
+                "longitude": 101.2234
+            },
+            "description": "Perfectly located at the gateway to Sentosa and opposite Singapore’s largest shopping mall, Vivocity, the 333-room Bay Hotel* is well-positioned as the largest executive boutique hotel in Singapore. Embraced by verdant, picturesque surrounds, the diamante Bay Hotel satiates urbane travellers with cosmopolitan chic and idyllic charm.",
+            "sleep": 2,
+            "images": [
+                {
+                    "src": "https://source.unsplash.com/random/?hotel-room/1",
+                    "description": "Business King Room"
+                },
+                {
+                    "src": "https://images.unsplash.com/photo-1568495248636-6432b97bd949?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80",
+                    "description": "Business King Bed"
+                },
+                {
+                    "src": "https://images.unsplash.com/photo-1576675784201-0e142b423952?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1352&q=80",
+                    "description": "Business King"
+                },
+                {
+                    "src": "https://images.unsplash.com/photo-1572177215152-32f247303126?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2082&q=80",
+                    "description": "Business King"
+                },
+                {
+                    "src": "https://images.unsplash.com/photo-1444201983204-c43cbd584d93?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+                    "description": "Business Suite"
+                },
+                {
+                    "src": "https://images.unsplash.com/flagged/photo-1556438757-f9181aa300ca?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1353&q=80",
+                    "description": "Shower Room"
+                }
+            ],
+            "features": ["GYM", "POOL", "SPA", "WIFIPUB"],
+            "rating": 4,
+            "phone": {
+                "countryCode": null,
+                "phoneNumber": "+65 6818 6666"
+            },
+            "email": "general@bayhotelsingapore.com"
+        },
+        {
+            "code": "BHCM",
+            "customerID": "BAYHOTEL",
+            "logo": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2080&q=80",
+            "name": "Bay Hotel Ho Chi Minh",
+            "address": {
+                "address": "7 Ngo Van Nam Street, District 1",
+                "city": "Ho Chi Minh City",
+                "state": "",
+                "postcode": "",
+                "countryCode": "VNM",
+                "latitude": 5.2301,
+                "longitude": 101.2234
+            },
+            "description": "<p>The 251-room Bay Hotel Ho Chi Minh opened in first quarter of 2016, after the successful inception of its previous sister property, the largest executive boutique 333-room Bay Hotel Singapore (sold in Q3 2019).</p><p>Tailored to impress business travellers with a boutique service philosophy and the urbanites’ comfort in mind, Bay Hotel Ho Chi Minh is primed to lend a distinguished appeal and render an unparalleled service in the heart of the city, District 1.</p><p>The 16-storey hotel features a bevy of pleasures for minds to unwind from a stylish restaurant, rooftop pool and bar facing the Saigon River.</p>",
+            "sleep": 4,
+            "images": [
+                {
+                    "src": "https://source.unsplash.com/random/?hotel-room/3",
+                    "description": "Business King Room"
+                },
+                {
+                    "src": "https://images.unsplash.com/photo-1568495248636-6432b97bd949?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80",
+                    "description": "Business King Bed"
+                },
+                {
+                    "src": "https://images.unsplash.com/photo-1576675784201-0e142b423952?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1352&q=80",
+                    "description": "Business King"
+                },
+                {
+                    "src": "https://images.unsplash.com/photo-1572177215152-32f247303126?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2082&q=80",
+                    "description": "Business King"
+                },
+                {
+                    "src": "https://images.unsplash.com/photo-1444201983204-c43cbd584d93?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+                    "description": "Business Suite"
+                },
+                {
+                    "src": "https://images.unsplash.com/flagged/photo-1556438757-f9181aa300ca?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1353&q=80",
+                    "description": "Shower Room"
+                }
+            ],
+            "features": ["GYM", "POOL", "SPA", "WIFIPUB"],
+            "rating": 4,
+            "phone": {
+                "countryCode": null,
+                "phoneNumber": "+84 28 3829 6666"
+            },
+            "email": "general@bayhotelhcm.com"
+        }
+    ]
+}
